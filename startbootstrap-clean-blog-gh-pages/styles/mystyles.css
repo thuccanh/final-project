@@ -1,0 +1,29 @@
+.image-in-text {
+    justify-content: center;
+    display: flex;
+}
+
+a {
+    text-decoration: underline;
+    color: rgb(190, 220, 220);
+    font-size: 30px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.header-link:visited {
+    color: white;
+}
+
+h1{
+    justify-content: center;
+    font-style: normal;
+    
+}
+
+h2 {
+    justify-content: center;
+    font-style: normal;
+}
